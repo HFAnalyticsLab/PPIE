@@ -8,9 +8,9 @@ Public and patient involvement and engagement (PPIE) is an essential part of the
 Since 2019, the Data Analytics team at the Health Foundation has been working to develop, and implement a PPIE approach throughout the directorate. Our aim is to embed PPIE into the research process, and ensure that the work done accurately reflects the needs of service users.
 
 ## What this repository contains
-This repository contains the resources pertaining to our PPIE work. It includes our primary tool, a PPIE framework "Guide to Action", which is a practical guide to undertaking appropriate involvement and engagement activities in health care analytics.
+This repository contains the resources pertaining to our PPIE work. It includes our primary tool, a PPIE framework ["Guide to Action"](https://github.com/HFAnalyticsLab/PPIE/blob/main/PPIE%20Guide%20to%20Action%20-%20Options%20and%20Approaches%20for%20Data%20Analytics.pdf), which is a practical guide to undertaking appropriate involvement and engagement activities in health care analytics.
 
-The accompanying Decision Tree document helps users decide upon the appropriate type of involvement and engagement for their project, and points them to the relevant section in the Guide to Action.
+The accompanying [Decision Tree](https://github.com/HFAnalyticsLab/PPIE/blob/main/PPIE%20Decision%20tree.pdf) document helps users decide upon the appropriate type of involvement and engagement for their project, and points them to the relevant section in the Guide to Action.
 
 ## Further reading
 We have published a [medium blog](https://medium.com/) describing our journey, including the challenges and pitfalls along the way.
