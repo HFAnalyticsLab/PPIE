@@ -17,6 +17,7 @@ We have published a [medium blog](https://medium.com/) describing our journey, i
 
 ## Authors
 Olivia Ross-Hurst - [on twitter](https://twitter.com/Livdmc)
+
 Fiona McKenzie
 
 ## Licence
