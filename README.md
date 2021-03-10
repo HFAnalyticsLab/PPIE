@@ -1,5 +1,5 @@
 # Public and Patient Involvment and Engagement
-## Documentation for the Health Foundation Data Analytics PPIE work
+Documentation for the Health Foundation Data Analytics PPIE work
 
 ## Background to the Project
 
@@ -14,6 +14,10 @@ The accompanying [Decision Tree](https://github.com/HFAnalyticsLab/PPIE/blob/mai
 
 ## Further reading
 We have published a [medium blog](https://medium.com/) describing our journey, including the challenges and pitfalls along the way.
+
+## Authors
+Olivia Ross-Hurst - [on twitter](https://twitter.com/Livdmc)
+Fiona McKenzie
 
 ## Licence
 This project is licensed under the [MIT License](https://github.com/HFAnalyticsLab/PPIE/blob/master/LICENSE).
