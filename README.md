@@ -13,6 +13,7 @@ This repository contains the resources pertaining to our PPIE work. It includes 
 The accompanying Decision Tree document helps users decide upon the appropriate type of involvement and engagement for their project, and points them to the relevant section in the Guide to Action.
 
 ## Further reading
-We have published a blog describing our journey, including the challenges and pitfalls along the way.
+We have published a [medium blog](https://medium.com/) describing our journey, including the challenges and pitfalls along the way.
 
 ## Licence
+This project is licensed under the [MIT License](https://github.com/HFAnalyticsLab/PPIE/blob/master/LICENSE).
