@@ -13,7 +13,7 @@ This repository contains the resources pertaining to our PPIE work. It includes 
 The accompanying [Decision Tree](https://github.com/HFAnalyticsLab/PPIE/blob/main/PPIE%20Decision%20tree.pdf) document helps users decide upon the appropriate type of involvement and engagement for their project, and points them to the relevant section in the Guide to Action.
 
 ## Further reading
-We have published a [medium blog](https://medium.com/) describing our journey, including the challenges and pitfalls along the way.
+We have published a [medium blog](https://medium.com/healthfdn-data-analytics/bringing-the-public-perspective-into-health-data-science-878dddbd5303) describing our journey, including the challenges and pitfalls along the way.
 
 ## Authors
 Olivia Ross-Hurst - [on twitter](https://twitter.com/Livdmc)
